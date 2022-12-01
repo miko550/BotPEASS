@@ -1,7 +1,6 @@
 ALL_VALID: no
 
 DESCRIPTION_KEYWORDS_I:
-- cve
 - rce
 - poc
 - Remote Code Execution
@@ -11,7 +10,6 @@ DESCRIPTION_KEYWORDS:
 - ThisIsACaseSensitiveExample
 
 PRODUCT_KEYWORDS_I:
-- cve
 - rce
 - poc
 - Remote Code Execution
